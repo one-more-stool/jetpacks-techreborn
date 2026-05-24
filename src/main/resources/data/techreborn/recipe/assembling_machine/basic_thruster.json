@@ -1,0 +1,21 @@
+{
+  "type": "techreborn:assembling_machine",
+  "ingredients": [
+    {
+      "count": 1,
+      "ingredient": "techreborn:electronic_circuit"
+    },
+    {
+      "count": 2,
+      "ingredient": "techreborn:iron_plate"
+    }
+  ],
+  "power": 10,
+  "time": 200,
+  "outputs": [
+    {
+      "id": "jetpacks:basic_thruster",
+      "count": 1
+    }
+  ]
+}

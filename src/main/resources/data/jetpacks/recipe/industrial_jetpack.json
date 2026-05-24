@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "JEC",
+    "T T"
+  ],
+  "key": {
+    "R": "jetpacks:reinforced_frame",
+    "J": "jetpacks:advanced_jetpack",
+    "E": "jetpacks:energy_controller",
+    "C": "techreborn:industrial_circuit",
+    "T": "jetpacks:advanced_thruster"
+  },
+  "result": {
+    "id": "jetpacks:industrial_jetpack",
+    "count": 1
+  }
+}

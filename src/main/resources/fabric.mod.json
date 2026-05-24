@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "jetpacks",
+  "version": "1.0.0",
+  "name": "TechReborn Jetpacks",
+  "description": "Adds energy-based jetpacks that are not built-in into TechReborn for some reason.",
+  "authors": [
+    "stool"
+  ],
+  "contact": {
+    "homepage": "https://github.com/stool/jetpacks-techreborn",
+    "sources": "https://github.com/stool/jetpacks-techreborn"
+  },
+  "license": "MIT",
+  "icon": "assets/jetpacks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.stool.jetpackstechreborn.JetpackMod"
+    ],
+    "client": [
+      "com.stool.jetpackstechreborn.client.JetpackClient"
+    ],
+    "modmenu": [
+      "com.stool.jetpackstechreborn.client.JetpackModMenuImpl"
+    ]    
+  },
+  "accessWidener": "jetpacks.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "26.1.2",
+    "java": ">=25",
+    "techreborn": "*"
+  }
+}

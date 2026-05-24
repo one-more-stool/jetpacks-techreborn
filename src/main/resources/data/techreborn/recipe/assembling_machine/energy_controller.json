@@ -1,0 +1,21 @@
+{
+  "type": "techreborn:assembling_machine",
+  "ingredients": [
+    {
+      "count": 1,
+      "ingredient": "techreborn:industrial_circuit"
+    },
+    {
+      "count": 1,
+      "ingredient": "techreborn:data_storage_chip"
+    }
+  ],
+  "power": 50,
+  "time": 400,
+  "outputs": [
+    {
+      "id": "jetpacks:energy_controller",
+      "count": 1
+    }
+  ]
+}

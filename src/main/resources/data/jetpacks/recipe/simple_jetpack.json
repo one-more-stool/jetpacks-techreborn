@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "BEB",
+    "T T"
+  ],
+  "key": {
+    "R": "jetpacks:reinforced_frame",
+    "B": "techreborn:red_cell_battery",
+    "T": "jetpacks:basic_thruster",
+    "E": "techreborn:electronic_circuit"
+  },
+  "result": {
+    "id": "jetpacks:simple_jetpack",
+    "count": 1
+  }
+}

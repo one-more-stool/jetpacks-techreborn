@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " J ",
+    "TCT"
+  ],
+  "key": {
+    "R": "jetpacks:reinforced_frame",
+    "J": "jetpacks:simple_jetpack",
+    "T": "jetpacks:advanced_thruster",
+    "C": "techreborn:advanced_circuit"
+  },
+  "result": {
+    "id": "jetpacks:advanced_jetpack",
+    "count": 1
+  }
+}

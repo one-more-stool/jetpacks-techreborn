@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " J ",
+    "TIT"
+  ],
+  "key": {
+    "R": "jetpacks:reinforced_frame",
+    "J": "jetpacks:industrial_jetpack",
+    "I": "techreborn:iridium_alloy_plate",
+    "T": "jetpacks:advanced_thruster"
+  },
+  "result": {
+    "id": "jetpacks:ultimate_jetpack",
+    "count": 1
+  }
+}

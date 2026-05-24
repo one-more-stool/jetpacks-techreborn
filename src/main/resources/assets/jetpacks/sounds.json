@@ -1,0 +1,30 @@
+{
+  "flight": {
+    "category": "player",
+    "subtitle": "subtitles.jetpacks.flight",
+    "sounds": [
+      "jetpacks:flight"
+    ]
+  },
+  "hover": {
+    "category": "player",
+    "subtitle": "subtitles.jetpacks.hover",
+    "sounds": [
+      "jetpacks:hover"
+    ]
+  },
+  "switch": {
+    "category": "player",
+    "subtitle": "subtitles.jetpacks.switch",
+    "sounds": [
+      "jetpacks:switch"
+    ]
+  },
+  "lowbattery": {
+    "category": "player",
+    "subtitle": "subtitles.jetpacks.lowbattery",
+    "sounds": [
+      "jetpacks:lowbattery"
+    ]
+  }
+}

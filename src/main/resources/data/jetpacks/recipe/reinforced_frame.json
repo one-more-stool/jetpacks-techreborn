@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "P P",
+    "PPP"
+  ],
+  "key": {
+    "P": "techreborn:steel_plate"
+  },
+  "result": {
+    "id": "jetpacks:reinforced_frame",
+    "count": 1
+  }
+}

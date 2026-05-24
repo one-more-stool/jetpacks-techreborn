@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "jetpacks:industrial_jetpack"
+      }
+    ]
+  }
+}
