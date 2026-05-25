@@ -44,8 +44,12 @@ java {
     targetCompatibility = JavaVersion.VERSION_25
 }
 
+base {
+    archivesName = archives_base_name
+}
+
 jar {
     from("LICENSE") {
-        rename { "${it}_${project.archivesBaseName}"}
+        rename { "${it}_${archives_base_name}" }
     }
 }
